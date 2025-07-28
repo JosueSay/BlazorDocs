@@ -1,0 +1,49 @@
+.markdownlint.json
+
+# Archivos de usuario de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos de dependencias de NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos generados por el compilador
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+*.bak
+*.backup
+
+# Configuración de IIS
+.vs/
+*.vspscc
+*.vssscc
+
+# Archivos de publicación
+*.publishsettings
+
+# Archivos de usuario de Rider/JetBrains
+.idea/
+
+# Archivos estáticos generados
+wwwroot/dist/
